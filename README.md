@@ -27,7 +27,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Insert here
+
+
+https://user-images.githubusercontent.com/107435965/196542147-81245a76-530f-468b-9ec1-798422ffdd11.mov
+
 
 
 ## Notes
